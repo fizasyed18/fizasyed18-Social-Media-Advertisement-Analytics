@@ -23,12 +23,12 @@ The dataset contains 16 columns and 15k+ rows of information on various social m
 - **Engagement_Score:**  Measure of user interaction (e.g. Likes, Shares and Comments).
 
 ## Dataset Summary
-Total Acquisition Cost: $116.42 M
-Total Net Profit: $370.61 M
-Total Clicks: 272.1 M
-Total Impressions: 839.9 M
-Average ROI: 3.20
-Average Conversion Rate: 0.08
+- Total Acquisition Cost: $116.42 M
+- Total Net Profit: $370.61 M
+- Total Clicks: 272.1 M
+- Total Impressions: 839.9 M
+- Average ROI: 3.20
+- Average Conversion Rate: 0.08
 
 ## Observations:
 - The Brand Awareness campaign has the highest acquisition cost of $26.55M, indicating investment in this area, while Increase Sales campaign has the lowest acquisition cost of $25.33M.
